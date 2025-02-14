@@ -1,0 +1,16 @@
+h2 {
+    width: 35%;
+    text-align: center;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+}
+.social-media{
+    display: flex;
+    justify-content: center;
+}
+.social-media a{
+    margin-right: 10px;
+}
